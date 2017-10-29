@@ -8,5 +8,5 @@ Running Instructions:
 4. After clicking either option, you'll find a new folder called "MIDI Dump" within the Cache's folder. This will contain the Music tracks (Index 6/Music 1) and Fanfare (Index 11/Music 2) tracks, decoded into MIDI format.
 
 Credits:
-OpenRS Team - OSRS MIDI Dumper
-Me - RSHD MIDI Dumper
+- OpenRS Team: OSRS MIDI Dumper
+- Myself: RSHD MIDI Dumper
