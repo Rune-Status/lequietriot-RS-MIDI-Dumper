@@ -1,0 +1,1229 @@
+I had to identify these all manually, and I'm still not done identifying them.
+If you recognize any, let me know so I can add to this list!
+
+Music (Index 6):
+
+0 - Login Screen Music (Born To Do This)
+1 - Iban
+2 - Autumn Voyage
+3 - Unknown Land
+4 - Hell’s Bells
+5 - Sad Meadow
+6 - Jolly-R
+7 - Overture
+8 - Wildwood
+9 - Kingdom
+10 - Moody
+11 - Spooky2
+12 - Long Way Home
+13 - Mage Arena
+14 - Witching
+15 - Workshop
+16 - Scape Main
+17 - Escape
+18 - Horizon
+19 - Arabique
+20 - Lullaby
+21 - Monarch Waltz
+22 - Gnome King
+23 - Fe Fi Fo Fum
+24 - Attack 1
+25 - Attack 2
+26 - Attack 3
+27 - Attack 4
+28 - Attack 5
+29 - Attack 6
+30 - Voodoo Cult
+31 - Quest Jingle (Unlisted)
+32 - Voyage
+33 - Gnome Village
+34 - Wonder
+35 - Sea Shanty 2
+36 - Arabian 
+37 - Deep Wildy
+38 - Trawler
+39 - A Church Organ Melody? (Unlisted)
+40 - Hands playing Church Organ? (Unlisted)
+41 - Expecting
+42 - Wilderness 2
+43 - Wilderness 3
+44 - Right on Track
+45 - Venture 2
+46 - Harmony 2
+47 - Duel Arena (Rework)
+48 - Morytania
+49 - Wander
+50 - Al Kharid
+51 - Trawler Minor
+52 - Serene
+53 - Royale
+54 - Scape Soft
+55 - High Seas
+56 - Doorways
+57 - Rune Essence
+58 - Nomad
+59 - Cursed
+60 - Lasting
+61 - Village
+62 - Newbie Melody
+63 - Chain of Command
+64 - Book of Spells 
+65 - Miracle Dance
+66 - Legion
+67 - Close Quarters
+68 - Cavern
+69 - Egypt
+70 - Upcoming
+71 - Chompy Hunt
+72 - Fanfare
+73 - All’s Fairy in Love and War
+74 - Lightwalk
+75 - Venture
+76 - Harmony
+77 - Splendour
+78 - Reggae
+79 - The Desert
+80 - Soundscape
+81 - Wonderous
+82 - Waterfall
+83 - Big Chords 
+84 - Dead Quiet 
+85 - Vision (Old Version)
+86 - Dimension X
+87 - Ice Melody
+88 - Twilight
+89 - Reggae 2
+90 - Ambient Jungle
+91 - Riverside
+92 - Sea Shanty
+93 - Parade
+94 - Tribal 2
+95 - Intrepid
+96 - Inspiration
+97 - Hermit 
+98 - Forever
+99 - Baroque
+100 - Beyond
+101 - Gnome Village 2
+102 - Alone
+103 - Oriental
+104 - Camelot
+105 - Tomorrow
+106 - Expanse
+107 - Miles Away
+108 - Starlight
+109 - Theme
+110 - Serenade
+111 - Still Night
+112 - Gnomeball
+113 - Lightness
+114 - Jungly 1
+115 - Jungly 2
+116 - Greatness
+117 - Jungly 3
+118 - Faerie
+119 - Fishing
+120 - Shining
+121 - Forbidden
+122 - Shine
+123 - Arabian 2
+124 - Arabian 3
+125 - Garden
+126 - We Are the Fairies
+127 - Nightfall
+128 - Grumpy
+129 - Spooky Jungle
+130 - Tree Spirits
+131 - Understanding
+132 - Breeze
+133 - The Tower  
+134 - La Mort
+135 -
+136 -
+137 -  
+138 - Emperor 
+139 -
+140 - Talking Forest
+141 - Barbarianism
+142 - Complication
+143 - Down to Earth
+144 - Scape Cave 
+145 - Yesteryear
+146 - Zealot
+147 - ?
+148 - Emotion
+149 - Principality
+150 - Mouse Trap
+151 - Start
+152 - Ballad of Enchantment
+153 - Expedition
+154 - Bone Dance
+155 - Neverland
+156 - Mausoleum
+157 - Medieval
+158 - Quest 
+159 - Gaol
+160 - Army of Darkness
+161 - Long Ago
+162 - Tribal Background
+163 - Flute Salad 
+164 - Landlubber  
+165 - Tribal  
+166 - Fanfare 2
+167 - Fanfare 3
+168 - Lonesome
+169 - Crystal Sword
+170 - The Shadow
+171 - ?
+172 - Jungle Island
+173 - Dunjun
+174 - Desert Voyage
+175 - Spirit
+176 - Undercurrent
+177 - Adventure
+178 - Courage
+179 - Underground 
+180 - Attention 
+181 - Crystal Cave
+182 - Dangerous
+183 - Troubled
+184 - Magical Journey
+185 - Magic Dance
+186 - Arrival  
+187 - Tremble
+188 - In the Manor  
+189 - Land of Snow 
+190 - Heart and Mind 
+191 - Knightly 
+192 - Trinity 
+193 - Mellow 
+194 - Brimstail's Scales 
+195 - ?
+196 - ?
+197 - Lament of Meiyerditch 
+198 - Dagannoth Dawn 
+199 -  ?
+200 - The Mollusc Menace  
+201 - Slug a Bug Ball  
+202 - Prime Time 
+203 - My Arm's Journey
+204 - Roc and Roll 
+205 - High Spirits  
+206 - Floating Free
+207 - Scape Hunter 
+208 - Jungle Island XMAS  
+209 - Jungle Bells 
+210 - Sea Shanty XMAS  
+211 - Pirates of Penance  
+212 - ?
+213 - Labyrinth 
+214 - Undead Dungeon  
+215 - ?
+216 - Espionage  
+217 - Have an Ice Day  
+218 - ?
+219 - ? 
+220 - Island of the Trolls 
+221 - Jester Minute  
+222 - Major Miner 
+223 - Norse Code  
+224 - Ogre the Top  
+225 - Volcanic Vikings 
+226 - ?
+227 - The Fremennik Isles Cutscene - Talking to King of Jatizso (Unlisted)
+228 - Garden of Autumn  
+229 - Garden of Spring  
+230 - Garden of Summer  
+231 - Garden of Winter  
+232 - ?
+233 - ?
+234 - Creature Cruelty
+235 - Magic Magic Magic 
+236 - Mutant Medley  
+237 - Work Work Work
+238 - Zombiism  
+239 - Brain Battle
+240 - Dorgeshuun City
+241 - Stagnant  
+242 - Time Out 
+243 - Stratosphere  
+244 - Waterlogged  
+245 - Natural  
+246 - Grotto  
+247 - Artistry
+248 - Aztec 
+249 - Dorgeshuun Deep 
+250 - Surok's Theme 
+251 - Forest 
+252 - Elven Mist 
+253 - Lost Soul 
+254 - Meridian  
+255 - Woodland  
+256 - Overpass 
+257 - Sojourn 
+258 - Contest 
+259 - Crystal Castle 
+260 - Insect Queen (Rework)
+261 - Marzipan 
+262 - Righteousness  
+263 - Bandit Camp  
+264 - Mad Eadgar  
+265 - Superstition  
+266 - Bone Dry 
+267 - Sunburn  
+268 - Everywhere
+269 - Competition 
+270 - Exposed  
+271 - Well of Voyage 
+272 - Alternative Root 
+273 - Easter Jig  
+274 - Rising Damp 
+275 - Slice of Station 
+276 - Ham and Seek 
+277 - Haunted Mine 
+278 - Deep Down 
+279 - Ham Attack  
+281 - Slice of Silent Movie  
+282 - Chamber  
+283 - Everlasting 
+284 - Miscellania 
+285 - Etcetera  
+286 - Shadowland  
+287 - Lair  
+288 - Deadlands 
+289 - Rellekka  
+290 - Saga  
+291 - Borderland  
+292 - Stranded  
+293 - Legend  
+294 - Frostbite
+295 - Warrior  
+296 - Technology  
+297 - ?
+298 - Illusive  
+299 - Inadequacy 
+300 - Untouchable 
+301 - Down and Out
+302 - On the Up
+303 - Monkey Madness 
+304 - Marooned 
+305 - Anywhere  
+306 - Island Life
+307 - Temple
+308 - Suspicious  
+309 - Looking Back  
+310 - Dwarf Theme 
+311 - Showdown
+312 - Find My Way 
+313 - Goblin Village
+314 - Castle Wars (Rework)
+315 - Surface World Wheat Crop Circle/Impetuous without Percussion (Unlisted)
+316 - The Navigator
+317 - Melodrama 
+318 - Ready for Battle
+319 - Stillness 
+320 - Lighthouse  
+321 - Scape Scared
+322 - Out of the Deep
+323 - Underground Pass
+324 - Background
+325 - Cave Background
+326 - Dark  
+327 - Dream 
+328 - March  
+329 - Regal  
+330 - Cellar Song  
+331 - Scape Sad  
+332 - Scape Wild  
+333 - Spooky  
+334 - Pirates of Peril  
+335 - Romancing the Crone  
+336 - Dangerous Road 
+337 - Faithless 
+338 - Tiptoe 
+339 - The Terrible Tower  
+340 - Masquerade  
+341 - The Slayer  
+342 - Body Parts  
+343 - Monster Melee 
+344 - Fenkenstrain's Refrain  
+345 - Barking Mad  
+346 - Goblin Game  
+347 - Fruits de Mer  
+348 - Narnode's Theme  
+349 - Impetuous  
+350 - Boat Ride, Full Version? (Unlisted)
+351 - Dynasty
+352 - Scarab  
+353 - Shipwrecked 
+354 - Phasmatys 
+355 - The Other Side 
+356 - Settlement  
+357 - Cave of Beasts
+358 - Dragontooth Island
+359 - Sarcophagus
+360 - Elvarg attacks! (Unlisted)
+361 - Down Below
+362 - Karamja Jam 
+363 - 7th Realm  
+364 - Pathways 
+365 - Melzar's Maze 
+366 - Eagle Peak
+367 - Barb Wire 
+368 - ?
+369 - Time to Mine  
+370 - In Between
+371 - School's Out  
+372 - Far Away  
+373 - Claustrophobia  
+374 - Knightmare  
+375 - Fight or Flight
+376 - Temple of Light
+377 - The Golem
+378 - Forgotten 
+379 - Throne of the Demon
+380 - Dance of the Undead
+381 - Dangerous Way 
+382 - Lore and Order 
+383 - City of the Dead 
+384 - Hypnotized
+385 -  ?
+386 - Bandos Battalion
+387 - Sphinx
+388 - Mirage
+389 - Cave of the Goblins
+390 - Romper Chomper
+391 - Zamorak Zoo
+392 - Zogre Dance
+393 - Path of Peril
+394 - Wayward
+395 - Tale of Keldagrim 
+396 - Land of the Dwarves 
+397 - Tears of Guthix (Rework)
+398 - The Power of Tears (Rework)
+399 - Armageddon 
+400 - Scape Original
+401 - The Adventurer
+402 - The Rogues' Den 
+403 - The Far Side
+404 - Armadyl Alliance 
+405 - The Consortium (Unlisted, Cutscene)
+406 - Boat Ride? (Unlisted)
+407 - The Lost Melody
+408 - Strength of Saradomin
+409 - Frogland 
+410 - ?
+411 - Evil Bob's Island
+412 - Into the Abyss
+413 - The Quiz Master
+414 - The Longramble Scramble 
+415 - Athlete’s Foot (Unlisted)
+416 - Healin' Feelin' 
+417 - Terrorbird Tussle  
+418 - Corporal Punishment 
+419 - Pheasant Peasant  
+420 - The Lost Tribe
+421 - Storeroom Shuffle 
+422 - ?
+423 - ?
+424 - ?
+425 - The Chosen
+426 - Waste Defaced
+427 - Bolrie's Diary
+428 - Altar Ego
+429 - Roots and Flutes
+430 - ?
+431 - ?
+432 - Grimly Fiendish
+433 - Dusk in Yu'biusk
+434 - Have a Blast
+435 - Wilderness
+436 - Forgettable Melody
+437 - Zanik's Theme
+439 - Catacombs and Tombs
+440 - Temple of Tribes
+441 - Tournament!
+442 - Clan Wars
+443 - Bounty Hunter Level 2
+444 - Bounty Hunter Level 1
+445 - Bounty Hunter Level 3
+446 - ?
+447 - Over To Nardah
+448 - The Monsters Below
+449 - Wild Isle
+450 - Venomous
+451 - Tune from the Dune
+452 - Copris Lunaris
+453 - Jungle Hunt
+454 - Home Sweet Home
+455 - Scarabaeoidea
+456 - Animal Apogee
+457 - Scape Summon
+458 - ?
+459 - The Route of All Evil
+460 - Joy of the Hunt
+461 - The Desolate Isle
+462 - Spirits of Elid
+463 - Fire and Brimstone
+464 - The Genie
+465 - Desert Heat
+466 - Ground Scape
+467 - The Route of the Problem
+468 - Shaping Up
+469 - In the Pits
+470 - Strange Place
+471 - Brew Hoo Hoo
+472 - Spa Bizarre
+473 - TzHaar!
+474 - Bish Bash Bosh
+475 - Wild Side
+476 - Dead Can Dance
+477 - Hot 'n' Bothered
+478 - The Cellar Dwellers
+479 - Jungle Troubles
+480 - ?
+481 - Catch Me If You Can
+482 - Rat a Tat Tat
+483 - Jungle Community
+484 - ?
+485 - The Noble Rodent
+487 - Charmin' Farmin'
+488 - The Wrong Path
+489 - Bubble and Squeak
+490 - Sarim's Vermin
+491 - Rat Hunt
+492 - Exam Conditions
+493 - Safety in Numbers
+494 - Incarceration
+495 - ?
+496 - The Trade Parade
+497 - Aye Car Rum Ba
+498 - Blistering Barnacles
+499 - Creepy
+500 - A New Menace
+501 - Distant Land
+502 - Bittersweet Bunny
+503 - Waiting for the Hunt
+504 - Fangs for the Memory
+505 - Pharaoh's Tomb
+506 - Land Down Under
+507 - Guthix's Hunter
+508 - Meddling Kids
+509 - Corridors of Power
+510 - Slither and Thither
+511 - In the Clink
+512 - Bloodbath
+513 - Conspiracy: Part 1
+514 - The Columbarium
+515 - Mudskipper Melody
+516 - Conspiracy: Part 2
+517 - Subterranea
+518 - The Terrible Tunnels
+519 - Incantation
+520 - Grip of the Talon
+521 - The Terrible Caverns
+522 - Icy a Worried Gnome
+523 - Icy Trouble Ahead
+524 - Xenophobe
+525 - Title Fight
+526 - Arma Gonna Get You
+527 - Dillo-gence is Key
+528 - Victory is Mine
+529 - Woe of the Wyvern
+530 - In the Brine
+531 - TokTz-Ket-Ek-Mack
+532 - Diango's Little Helpers
+533 - Roll the Bones
+534 - Mind Over Matter
+535 - Golden Touch
+536 - Cool for Ali Cats
+537 - Dogs of War
+539 - Under the Sand
+540 - Desert Smoke
+541 - The Enchanter
+542 - Lament
+543 - Slain to Waste
+544 - Making Waves
+545 - Cabin Fever
+546 - Last Stand
+547 - Scape Santa
+548 - Poles Apart
+549 - Jailbird
+550 - Something Fishy
+551 - A Pirate's Life for Me
+552 - The Mentor
+553 - Shining Spirit
+554 - Troubled Spirit
+555 - Ardougne Ago
+556 - Sarah's Lullaby
+557 - Historic Memories
+558 - Food for Thought
+559 - Malady
+560 - Dance of Death
+561 - Second Vision
+562 - Circus
+563 - The Vacant Abyss
+564 - Bane of Summer
+565 - Wrath and Ruin
+566 - Zombie Invasion
+567 - Dream Theatre
+568 - Storm Brew
+569 - Undead Army
+570 - The Ruins of Camdozaal
+571 - The Art of Hocus-Pocus
+572 - Magic and Mystery
+573 - The Mad Mole
+574 - ?
+575 - Chickened Out
+576 - Davy Jones's Locker
+577 - Mastermindless
+578 - Stealing Creation
+579 - Dangerous Logic
+580 - The Sound of Guthix (Backing Tracks)
+581 - The Evil Within
+582 - Metalwork
+583 - Chef Surprize
+584 - Temple Desecrated
+585 - Black of Knight
+586 - Everlasting Fire
+587 - Null and Void
+588 - Pest Control
+589 - The Sound of Guthix (Full)
+590 - Dragonkin Theme
+591 - Tomb Raider
+592 - Winter Funfare
+593 - The Dance of the Snow Queen
+594 - No Way Out
+595 - Cavernous Mythology
+596 - The Phoenix
+597 - The Waiting Game
+598 - Soul Wars
+599 - Snack Attack
+600 - Method of Madness
+601 - Trees Aren’t Your Friends
+602 -
+603 -
+604 -
+605 - Demise of the Dorgeshuun
+606 - The Depths
+607 - Random Applause Noise? (Unlisted/Unused)
+608 - But We Can Fight
+609 - Godslayer
+610 - Distillery Hilarity
+611 - Trouble Brewing
+612 - Head to Head
+613 - Face Off
+614 - Pinball Wizard
+615 - Beetle Juice
+616 - Back to Life
+617 - The Chosen Commander
+618 - The Throne of Bandos
+619 - ?
+620 - Where Eagles Lair
+621 - Homescape
+622 - Waking Dream
+623 - Dreamstate 
+624 - Don’t Panic Zanik
+625 - The Lunar Isle
+626 - Way of the Enchanter
+627 - Isle of Everywhere
+628 - ?
+629 - King Vargas Recalls the Final Battle… (Unlisted, Cutscene?)
+630 - The Galleon
+631 - Life’s a Beach!
+632 - Little Cave of Horrors
+633 - On the Wing
+634 - Warriors’ Guild
+635 - Adventurers Reunited! (Unlisted?)
+636 - Nial’s Widow
+637 - Brundt Recalls the Muster… (Unlisted, Cutscene?)
+638 - H.A.M. Fisted
+639 - Frost Fight
+640 - Sigmund’s Showdown
+641 - Lair of Kang Admi
+642 - Lazy Wabbit
+643 - The Last Shanty
+644 - Hare-brained Machines
+645 - The Muspah’s Tomb
+646 - Night of the Vampyre
+647 - Rest for the Weary
+648 - The Plundered Tomb
+649 - Ancestral Wisdom
+650 - Ice Day for Penguins
+651 - The Pengmersible
+652 - Penguin Possible
+653 - Captain’s Orders
+654 - Polar Ride
+655 - Desert Island Bear
+656 - ?
+657 - ?
+658 - ?
+659 - ?
+660 - ?
+661 - ?
+662 - ?
+663 - ?
+664 - ?
+665 - ?
+666 - Kharidian Nights
+667 - Eruption
+668 - Mobilising Armies
+669 - Command Centre
+670 - Waiting for Battle
+671 - Mobilising Armies
+672 - The Heist
+673 - Lamistard’s Labyrinth
+674 - Exhibit ‘A’
+675 - ?
+676 - ?
+677 - Fight of the Dwarves
+678 - Living Rock
+679 - Scape Theme
+680 - Elven Seed
+681 - Trick or Treat?
+682 - Poison Dreams 
+683 - Itsy Bitsy...
+684 - The Duke
+685 - Frozen Fortress of Ghorrock, Frozen Interior (Unlisted)
+686 - The Frozen Fortress of Ghorrock, Ambience IV (Unlisted)
+687 - Frozen Fortress of Ghorrock, Interior VI (Unlisted)
+688 - Frozen Fortress of Ghorrock, Interior V (Unlisted) 
+689 - Frozen Fortress of Ghorrock, Interior VIII (Unlisted)
+690 - The Frozen Fortress of Ghorrock, Ambience II (Unlisted)
+691 - The Frozen Fortress of Ghorrock, Ambience VI (Unlisted)
+692 - Frozen Fortress of Ghorrock, Interior IV (Unlisted)
+693 - The Horn of Chill
+694 - ? (Unlisted)
+695 - Frozen Fortress of Ghorrock, Thawed Interior (Unlisted)
+696 - Frozen Fortress of Ghorrock, Interior VII (Unlisted)
+697 - The Frozen Fortress of Ghorrock, Ambience V (Unlisted)
+698 - The Frozen Fortress of Ghorrock, Ambience IX (Unlisted)
+699 - Zaros Stirs
+700 - Frozen Fortress of Ghorrock, Interior II (Unlisted)
+701 - ? (Unlisted)
+702 - The Frozen Fortress of Ghorrock, Ambience VII (Unlisted)
+703 - The Frozen Fortress of Ghorrock, Ambience X (Unlisted)
+704 - The Frozen Fortress of Ghorrock, Ambience VIII (Unlisted)
+705 - The Frozen Fortress of Ghorrock, Ambience III (Unlisted)
+706 - Frozen Fortress of Ghorrock, Interior I (Unlisted)
+707 - ? (Unlisted)
+708 - Frozen Fortress of Ghorrock, Interior III (Unlisted)
+709 - The Frozen Fortress of Ghorrock, Ambience I (Unlisted)
+710 - Final Destination
+711 - Blood Runs Deep Quest? (Unlisted)
+712 - Blood Runs Deep Quest? (Unlisted)
+713 - The Fallen Hero
+714 - Jaws of the Dagannoth
+715 - Maiasaura
+716 - Honkytonky Newbie Melody
+717 - I’m Counting On You
+718 - Honkytonky Harmony
+719 - Honkytonky Sea Shanty
+720 - Honkytonky Parade
+721 - Honkytonky Medieval
+722 - Ghost of Christmas Presents
+723 - ?
+724 - Smorgasbord
+725 - Silent Knight
+726 - Nomad’s Treachery (Unlisted, Cutscene)
+727 - Battle of Souls
+728 - Desolate Ruins
+729 - These Stones
+730 - A Familiar Feeling
+731 - Dead and Buried
+732 - The Pact
+733 - The Catacombs (Unlisted)
+734 - Freshwater
+735 - Saltwater
+736 - Stillwater
+737 - An Easter United
+738 - Lexicus Runewright
+739 - Adorno IV
+740 - Furnished Ambience II (Unlisted)
+741 - Adorno III
+742 - Adorno V
+743 - Stomp
+744 - Furnished Ambience XVI (Unlisted)
+745 - Furnished Ambience XV (Unlisted)
+746 - Rammernaut
+747 - Adorno IX
+748 - Adorno I
+749 - Furnished Ambience I (Unlisted)
+750 - Furnished Ambience XI (Unlisted)
+751 - Furnished Ambience VI (Unlisted)
+752 - Furnished Ambience V (Unlisted)
+753 - Adorno VI
+754 - Furnished Ambience XIV (Unlisted)
+755 - Furnished Ambience VIII (Unlisted)
+756 - Adorno X
+757 - Adorno VIII
+758 - Furnished Ambience III (Unlisted)
+759 - Night-gazer Khighorahk
+760 - Furnished Ambience IV (Unlisted)
+761 - Adorno VII
+762 - Furnished Ambience IX (Unlisted)
+763 - Furnished Ambience ? (Unlisted)
+764 - Furnished Ambience ? (Unlisted)
+765 - Furnished Ambience ? (Unlisted)
+766 - Furnished Ambience ? (Unlisted)
+767 - Har’Lakk the Riftsplitter
+768 - Sagittare
+769 - Adorno II
+770 - Dungeon Floor Cleared (Unlisted, Jingle)
+771 - Desolo VII 
+772 - 
+773 -
+774 -
+775 - Desolo IX
+776 -
+777 -
+778 -
+779 - Desolo I
+780 - Desolo VI
+781 - Desolo II
+782 - Divine Skinweaver
+783 - Shadow-forger Ihlakhizan
+784 - Unholy Cursebearer
+785 - Bulwark Beast
+786 - Bal’lak the Pummeller
+787 - Hobgoblin Geomancer
+788 -
+789 -
+790 - Desolo VIII
+791 -
+792 -
+793 -
+794 - Desolo V
+795 -
+796 -
+797 - 
+798 - Abandoned Ambience XIV (Unlisted)
+799 - Desolo III
+800 - Abandoned Ambience VIII (Unlisted)
+801 - Desolo X
+802 - Desolo IV
+803 - Born to Do This
+804 - Frozen Ambience ? (Unlisted)
+805 - Frozen Ambience ? (Unlisted)
+806 - Frozen Ambience ? (Unlisted)
+807 - Frozen Ambience ? (Unlisted)
+808 - Glacialis VI
+809 - Frozen Ambience ? (Unlisted)
+810 - Glacialis VIII
+811 - Glacialis IV
+812 - Frozen Ambience ? (Unlisted)
+813 - Frozen Ambience ? (Unlisted)
+814 - Luminescent Icefiend (Unlisted Version)
+815 - Icy Bones
+816 - Astea Frostweb
+817 - Gluttonous Behemoth
+818 - Luminescent Icefiend (Complete, Version 1)
+819 - Plane-freezer Lakhrahnaz
+820 - To’Kash the Bloodchiller
+821 - Luminescent Icefiend (Complete, Version 2)
+822 - Frozen Ambience ? (Unlisted)
+823 - Frozen Ambience ? (Unlisted)
+824 - Glacialis V
+825 - Frozen Ambience ? (Unlisted)
+826 - Frozen Ambience ? (Unlisted)
+827 - Glacialis III
+828 - Frozen Ambience ? (Unlisted)
+829 - Frozen Ambience ? (Unlisted)
+830 - Frozen Ambience ? (Unlisted)
+831 - Glacialis VII
+832 - Glacialis I
+833 - Glacialis IX
+834 - Glacialis II
+835 - Frozen Ambience ? (Unlisted)
+836 - Frozen Ambience ? (Unlisted)
+837 - Glacialis X
+838 - Thieves’ Guild III
+839 - Thieves’ Guild II
+840 - Thieves’ Guild IV
+841 - Thieves’ Guild? (Unlisted)
+842 - Thieves’ Guild I
+843 - Root Canal
+844 - Body Talk
+845 - Castle Warz (Rework)
+846 - Judge and Jury
+847 - Mindful
+848 - Void Knights’ Theme
+849 - Lortnoc Tsep
+850 - ?
+851 - Love Lost
+852 - Love Story
+853 - Love Wins (Unlisted, Cutscene)
+854 - Love Bites
+855 - Love and Hate
+856 - Chain Reaction
+857 - All for the Pest
+858 - Out of Control
+859 - Destiny
+860 - Occulo IV
+861 - Occult Ambience ? (Unlisted)
+862 - Occult Ambience ? (Unlisted)
+863 - Yk’Lagor the Thunderous
+864 - Occulo X
+865 - Skeletal Trio
+866 - Occult Ambience ? (Unlisted)
+867 - Occult Ambience ? (Unlisted)
+868 - Occult Ambience ? (Unlisted)
+869 - Occult Ambience ? (Unlisted)
+870 - Occulo IX
+871 - Occult Ambience ? (Unlisted)
+872 - Occulo VI
+873 - Occulo I
+874 - Occult Ambience ? (Unlisted)
+875 - Occult Ambience ? (Unlisted)
+876 - Necrolord
+877 - Runed Behemoth
+878 - Occult Ambience ? (Unlisted)
+879 - Occult Ambience ? (Unlisted)
+880 - Occulo III
+881 - Occult Ambience ? (Unlisted)
+882 - Occulo II
+883 - Occult Ambience ? (Unlisted)
+884 - Occult Ambience ? (Unlisted)
+885 - Occulo VII
+886 - Occulo V
+887 - Occult Ambience ? (Unlisted)
+888 - Occult Ambience ? (Unlisted)
+889 - Occulo VIII
+890 - Yk’Lagor & the Mysterious Mages (Unlisted)
+891 - Gravecreeper
+892 - Flesh-spoiler Haasghenahk
+893 - Unavoidable Conflict
+894 - Conquest Tutorial (Unlisted)
+895 - Right of Conquest
+896 - Gunnarsgrunn
+897 - Gudrun and Dororan (Unlisted)
+898 - Gunnar’s Ground (Unlisted)
+899 - Mystery Revealed
+900 - In Security
+901 - The Void Stares Back Theme (Unlisted)
+902 - Precarious Void
+903 - Black Zabeth
+904 - The Void Stares Back
+905 - Give it Your Pest Shot
+906 - Who Are We to Judge?
+907 - Halloween Party
+908 - Black Zabeth: LIVE! (Unlisted)
+909 - Warped Ambience ? (Unlisted)
+910 - Warped Ambience ? (Unlisted)
+911 - Torqueo IV
+912 - Warped Ambience ? (Unlisted)
+913 - Dreadnaut
+914 - Torqueo II
+915 - Warped Ambience ? (Unlisted)
+916 - Hope Devourer
+917 - Torqueo III
+918 - Warped Ambience ? (Unlisted)
+919 - Warped Ambience ? (Unlisted)
+920 - Torqueo VIII
+921 - Warped Ambience ? (Unlisted)
+922 - Warped Gulega
+923 - Warped Ambience ? (Unlisted)
+924 - Kal’Ger the Warmonger
+925 - Torqueo IX
+926 - Warped Ambience ? (Unlisted)
+927 - Torqueo V
+928 - Warped Ambience ? (Unlisted)
+929 - Warped Ambience ? (Unlisted)
+930 - Torqueo I
+931 - Warped Ambience ? (Unlisted)
+932 - Warped Ambience ? (Unlisted)
+933 - Warped Ambience ? (Unlisted)
+934 - Warped Ambience ? (Unlisted)
+935 - Warped Ambience ? (Unlisted)
+936 - Torqueo X
+937 - World-gorger Shukarhazh
+938 - Torqueo VII
+939 - Torqueo VI
+940 - Blink
+941 - The Task at Hand
+942 - Monkey Demon Guardian (Unlisted)
+943 - ‘Monkey See, Monkey Do’ variation? (Unlisted)
+944 - Simian Scuffle
+945 - ‘Simian Scuffle’ variation? (Unlisted)
+946 - ‘Monkey See, Monkey Do’ variation? (Unlisted)
+947 - ‘Monkey See, Monkey Do’ sad variation? (Unlisted)
+948 -
+949 -
+950 - ‘Monkey See, Monkey Do’ variation? (Unlisted)
+951 - Seasonal Sports
+952 - Christmas Caverns, Final Section - Extended (Unlisted)
+953 - Christmas Caverns
+954 - Go with the Flow
+955 - The Records Chamber
+956 - Only a King
+957 - Colonel Grimsson
+958 - Rocky Rescue
+959 - Corporate Callousness
+960 - Zaros Zeitgeist
+961 - Reunion
+962 - Cage Against the Machine
+963 - Logical Progression
+964 - Too Many Cooks…
+965 - The Factory Floor 
+966 - Spring Song
+967 - Lament of the Snow Queen
+968 - Three of a Kind
+969 - Deadliest Catch (1)
+970 - Deadliest Catch (2) 
+971 - Troll Invasion
+972 - Kethsi
+973 - Slug Poison
+974 - Lucy’s Theme (Unlisted)
+975 - Natural Selection
+976 - Citadel VII (1)
+977 - Citadel XI (1)
+978 - Citadel XI (2)
+979 - Citadel XV
+980 - ? (Unused)
+981 - Citadel VII (2)
+982 - Citadel VI
+983 - Architect of War
+984 - Citadel VIII
+985 - Citadel Theme
+986 - ? (Unused)
+987 - Citadel XIII
+988 - Citadel III
+989 - Citadel XIV
+990 - Citadel XII
+991 - ? (Unused)
+992 - Citadel IX
+993 - Citadel IV
+994 - Citadel I
+995 - Citadel V
+996 - Citadel XVI
+997 - Citadel II
+998 - Citadel X
+999 - ? (Unused)
+1000 - Darkmeyer (1)
+1001 - Vanescula Fight
+1002 - Darkmeyer (2)
+1003 - Upir Likhyi
+1004 - Arboretum
+1005 - The Branches of Darkmeyer Cutscene? (Unlisted)
+1006 - The Battle of Annakarl (Unlisted)
+1007 - The Eye of Saradomin (Unlisted)
+1008 - Return of Lucien
+1009 - The Pit (Unlisted)
+1010 - Deathcon II Citadel Ambience I (Unlisted)
+1011 - Deathcon II Citadel Ambience II (Unlisted)
+1012 - DCII Mash-up (Build-up Loop)
+1013 - DCII Mash-up (Infinity Mix)
+1014 - Dominion Lobby III
+1015 - Dominion Tower I
+1016 - Dominion Tower IV
+1017 - Dominion Lobby I
+1018 - Dominion Tower III
+1019 - Dominion Tower V (1)
+1020 - ? (Unused)
+1021 - Dominion Tower V (2)
+1022 - Dominion Tower II
+1023 - Dominion Lobby II
+1024 - Behold, the Dominion Tower! (Unlisted)
+1025 - The Demon is Back (Unlisted)
+1026 - Traveller’s Tale
+1027 - ?
+1028 - ?
+1029 - ?
+1030 - There Has Been a Murder
+1031 - Requiem Rehearsal
+1032 - Troubadour Dance
+1033 - ?
+1034 - Citharede Requiem
+1035 - ?
+1036 - ?
+1037 - ?
+1038 - ?
+1039 - ?
+1040 - The Funeral (Unlisted)
+1041 - The Abbey
+1042 - Choir Practice (Unlisted)
+1043 - ?
+1044 - Citharede Requiem Part I (Unlisted)
+1045 - Suspense? (Unlisted)
+1046 - Valerio’s Song
+1047 - Flash Factory
+1048 - ? (Unused)
+1049 - ? (Unused)
+1050 - ? (Unused)
+1051 - Chaotic Cookery
+1052 - The Price is Wight (Unlisted)
+1053 - Charred Remains
+1054 - The Firemakers’ Theme
+1055 - Char’s Theme (Unlisted)
+1056 - Caves of Fire (Unlisted)
+1057 - Suspense of some sort? (Unlisted)
+1058 - Taverley Adventure
+1059 - Taverley Lament
+1060 - Taverley Dreams
+1061 - Taverley Dreams II?
+1062 - Taverley Frolics
+1063 - Taverley Slayer Dungeon (Unlisted)
+1064 - Taverley Folk
+1065 - Troll Warzone Cutscene (Unlisted)
+1066 - Taverley Ambience
+1067 - Taverley Enchantment
+1068 - In the Warzone II? (Unlisted)
+1069 - Arise Hero (Unlisted)
+1070 - Scape Warzone (Unlisted)
+1071 - In the Warzone (Unlisted)
+1072 - ?
+1073 - Taverley Adventure II (Unlisted)
+1074 - Burthorpe Drummer
+1075 - Ga’al
+1076 - Burthorpe Danger
+1077 - Short Suspense Jingle (Unlisted)
+1078 - Burthorpe Dreams
+1079 - Burthorpe Dilemma
+1080 - Burthorpe Duty
+1081 - Tzhaar City I
+1082 - Tzhaar Supremacy II
+1083 - Tzhaar City V
+1084 - Tzhaar City II
+1085 - Tzhaar City IV
+1086 - Tzhaar Supremacy III
+1087 - Tzhaar City III
+1088 - Tzhaar Supremacy I
+1089 - Daemonheim Entrance
+1090 - Daemonheim Fremenniks
+1091 - Runeward
+1092 - Runefear
+1093 - Runetine
+1094 - Runewaste
+1095 - Runesphere
+1096 - Runespan
+1097 - Runiverse
+1098 - Runebreath
+1099 - Runearia
+1100 - Runesque
+1101 - Runefire
+1102 - Runecalm
+1103 - Runescar
+1104 - Runewrath
+1105 - Runenergy
+1106 - The Stalker
+1107 - Something is Wrong
+1108 - Wending Through the Willows
+1109 - Weaving
+1110 - The Haunting Voice II (Unlisted)
+1111 - Lucille’s House (Unlisted)
+1112 - Getting on With Things
+1113 - Belly of the Beast
+1114 - Song from the Depths
+1115 - The Haunting Voice I (Unlisted)
+1116 - Hunting Dragons
+1117 - Diamond Jubilee (Unlisted Cutscene)
+1118 - Queen Black Dragon
+1119 - Awoken
+1120 - Steady
+1121 - Bounty
+1122 - Supreme Champions
+1123 - Hunted
+1124 - You Will Know Me
+1125 - Target
+1126 - I Can See You
+1127 - Phillipe’s Bane
+1128 - Beneath the House
+1129 - Tiny Adventure
+1130 - Cheese Roll
+1131 - Gielinor Games? (Unlisted)
+1132 - Carnillean Rising
+1133 - Lords and Ladies
+1134 - Drains and Canals
+1135 - Cheese Roll II (Unlisted)
+1136 - What We Do
+1137 - Penguin Prison
+1138 - Sub Way
+1139 - Super Furry Animal
+1140 - Drum roll? (Unlisted)
+1141 - Kharidian Bustle
+1142 - Above the City
+1143 - Quicksand!
+1144 - Everything in its Right Palace
+1145 - Final Showdown
+1146 - Worlds
+1147 - Evil
+1148 - Sands of Time 
+1149 - Palace
+1150 - The Cave
+1151 - Breaking In
+1152 - Stand-off
+1153 - While We Sleep
+1154 - Skullery Jam
+1155 - The Stalker
+1156 - Palace Above
+1157 - Dune
+1158 - The Chozan One
+1159 - Violinsanity
+1160 - Draynor Market
+1161 - Oasis
+1162 - Shantay Pass
+1163 - Agents of Keli
+1164 - Darkness in Misthalin
+1165 - A Song for Khnum
+1166 - Rooftops
+1167 - Royal Rumble
+1168 - Vision (Rework)
+1169 - Inner Secret
+1170 - Blue Wizards
+1171 - The Harmony of the Runes
+1172 - Forgotten Orders
+1173 - Bloody Foundation
+1174 - The Ritual? (Unlisted)
+1175 - Bloody Foundation II (Unlisted)
+1176 - Stick Your Ale In
+1177 - Sea Hear
+1178 - Sea You Late Oar
+1179 - Shanty Instrumental
+1180 - Sea Folk
+1181 - Stick Your Oar In
+1182 - King of the Desert
+1183 - Coleoptera
+1184 - Scape Bold (Old Version) / 200M Accounts Login Theme
+1185 - End Song
+1186 - Chamber of Guthix
+1187 - Boulder and Brighter
+1188 - Invaders Must Die III
+1189 - Bird of Prey
+1190 - Defenders of Guthix II
+1191 - Temple of Guthix I
+1192 - Invaders Must Die II
+1193 - Memories of Guthix
+1194 - Invaders Must Die I
+1195 - Temple of Guthix II
+1196 - Guthix’s Warning
+1197 - Defenders of Guthix I
+1198 - Glouphrie Quest? (Unlisted)
+1199 - Masterwork Music Box (Unlisted)
+1200 - Order of Ascension Ambience ? (Unlisted)
+1201 - Order of Ascension Ambience ? (Unlisted)
+1202 - Order of Ascension Ambience ? (Unlisted)
+1203 - Order of Ascension Ambience ? (Unlisted)
+1204 - Order of Ascension Ambience ? (Unlisted)
+1205 - Order of Ascension Ambience ? (Unlisted)
+1206 - Order of Ascension Ambience ? (Unlisted)
+1207 - Order of Ascension Ambience ? (Unlisted)
+1208 - Order of Ascension Ambience ? (Unlisted)
+1209 - Order of Ascension Ambience ? (Unlisted)
+1210 - Vorago
+1211 - A Piglet and a Kitten (Unlisted)
+1212 - Always on my Rind
+1213 - Underbelly
+1214 - Glutton for Nourishment
+
+Fanfares (Index 11):
+0 -
+1 -
+2 - Entering the Dream World
+3 - Gnomeball: GOAL!
+4 - 
+5 - Entering Elvarg's Lair: Cutscene?
+6 - The Face of a King
+7 - 
+8 - 
+9 - 
+491 - The Funeral
